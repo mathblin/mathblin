@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my GitHub.
+
+I am currently ongoing Computer Science Engineering Studies. I also got interested lately in open source projects and colaboration 👯
+
+I will update this page soon with interesting content about my projects and goals.
+
+I wish you all a good day 😄
 
 <!--
 **mathblin/mathblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
